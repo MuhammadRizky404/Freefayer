@@ -1,0 +1,1 @@
+print ("Liu suka Frifayer")
